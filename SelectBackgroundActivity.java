@@ -23,6 +23,9 @@ public class SelectBackgroundActivity extends AppCompatActivity {
         white.setOnClickListener(onClickListener);
 
     }
+
+    
+
     View.OnClickListener onClickListener = new View.OnClickListener() {
         @Override
         public void onClick(View v) {
